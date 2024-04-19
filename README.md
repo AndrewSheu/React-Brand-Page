@@ -1,6 +1,6 @@
 # React Brand Page
 
 
-![Uploading React Brand Page.png…]()
+![image]()
 
 # Figma Design 
